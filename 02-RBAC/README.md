@@ -23,6 +23,10 @@ https://www.redhat.com/sysadmin/rbac-openshift-role
 
 Login with that user and check if everything is working.
 
+## Step 5 - cluster admin
+
+Now give the user also cluster-admin permissions
+
 ## Bonus
 
  Create a new role that allows for impersonating ONLY your own user and assign it to the test user.
