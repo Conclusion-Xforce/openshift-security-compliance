@@ -10,7 +10,7 @@ Please create an overview of the steps you need to take to upgrade to the latest
 Hints: Can I upgrade at once to 4.14.x? Should I upgrade my operators first? What checks should I perform before upgrading?
 
 ## Resources
-* [Operator Upgrades](https://access.redhat.com/labs/ocpouic))
+* [Operator Upgrades](https://access.redhat.com/labs/ocpouic)
 * [Upgrade path](https://access.redhat.com/labs/ocpupgradegraph/update_path/)
 * [General update documentation](https://docs.openshift.com/container-platform/4.15/updating/preparing_for_updates/updating-cluster-prepare.html)
 
